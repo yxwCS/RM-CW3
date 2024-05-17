@@ -1,7 +1,10 @@
 define({
 	tagCategories: {
-		"type": {
-			"description": "type of the paper"
+		"EvaluationMethod": {
+			"description": "type of evaluation method"
+		},
+		"Protocol": {
+			"description": "Focus on VPN protocol"
 		}
 	}
 });
