@@ -3,8 +3,11 @@ define({
 		"EvaluationMethod": {
 			"description": "type of evaluation method"
 		},
-		"Protocol": {
-			"description": "Focus on VPN protocol"
+		"Aspects": {
+			"description": "Focus on what aspect of VPN"
+		},
+		"DataSources": {
+			"description": "Data sources used in the study"
 		}
 	}
 });
